@@ -6,7 +6,7 @@ start = tm.time()
 df = pd.read_csv('sample_kesehatan.csv')
 
 #Tentukan jumlah pasien yang diperiksa
-Pasien = 100
+Pasien = 1000
 Total_Y = 0
 Total_T = 0
 
